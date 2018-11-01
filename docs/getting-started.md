@@ -1,6 +1,6 @@
 # Getting Started Guide
 
-This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md).
+This guide will help you get started using **welcome bot** on your own repositories. For more information on what this bot does, check out the [README](../README.md) and our [Wiki pages](../?).
 
 ## Installing the bot
 
@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- Why hello {user-name}! Thank you for joining our project. Your post in **issues** is greatly appreciated and we're looking foward to hearing your propososals for it's fix.
+- Yes! We are aware that our app needs further improvements. Thank you, {user-name} for recognising it's potential and jumping in to contribute. Can't wait to hear your sugesstions for fixes.
