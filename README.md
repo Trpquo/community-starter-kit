@@ -1,10 +1,15 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The app is a opensource github bot that generates automatic welcome messages to new contributors to our projects. 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- listens to new joins (probably by forking) to the projects repository
+- creates a new README.md file tailord for the specific contributer:
+- - inserts contributor's username into placeholders of the warm welcoming message with a short project's global descrition
+- - updates the text of project development descripton in accordance to the current state of the project description: quick summary of closed issues and a list of next steps based on most important pending issues
+- - displays a list of most prominent active contributors as a list of new contributors project teammates
+- (optional) regularly updates other repository's files such as CONTRIBUTING guide and Code of Conduct based on comments in the special column of project issues
 
 ## Getting started
 
